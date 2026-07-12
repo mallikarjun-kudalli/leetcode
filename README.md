@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0013-roman-to-integer) |
+| [2785-sort-vowels-in-a-string](https://github.com/mallikarjun-kudalli/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0206-reverse-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [2785-sort-vowels-in-a-string](https://github.com/mallikarjun-kudalli/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
