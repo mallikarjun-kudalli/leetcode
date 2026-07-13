@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0013-roman-to-integer) |
 | [2785-sort-vowels-in-a-string](https://github.com/mallikarjun-kudalli/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Two Pointers
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2785-sort-vowels-in-a-string](https://github.com/mallikarjun-kudalli/leetcode/tree/master/2785-sort-vowels-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
