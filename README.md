@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0066-plus-one) |
 | [0134-gas-station](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0455-assign-cookies) |
 ## Math
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0042-trapping-rain-water) |
+| [0435-non-overlapping-intervals](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0455-assign-cookies) |
 | [2785-sort-vowels-in-a-string](https://github.com/mallikarjun-kudalli/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Sliding Window
@@ -64,5 +67,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
