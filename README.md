@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0509-fibonacci-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0509-fibonacci-number) |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
