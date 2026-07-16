@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0799-champagne-tower](https://github.com/mallikarjun-kudalli/leetcode/tree/master/0799-champagne-tower) |
 | [1143-longest-common-subsequence](https://github.com/mallikarjun-kudalli/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
